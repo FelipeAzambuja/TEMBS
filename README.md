@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
-<img alt="TUKOL ETERNAL MEMORY  BUILD  SCHEMATIC" src="./logo.webp" width="80" align=left hspace="5" vspace="5"/>
+<img alt="TUKOL ETERNAL MEMORY  BUILD  SCHEMATIC" src="/TEMBS.webp" width="80" align=left hspace="5" vspace="5"/>
 <br>
 <h1>TUKOL ETERNAL MEMORY  BUILD  SCHEMATIC (TEMBS)</h1>
 
